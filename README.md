@@ -1,5 +1,5 @@
 # github-final-project
-Eltaj Hasanova's final github project for Coursera
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
